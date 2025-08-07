@@ -23,7 +23,7 @@ The dataset used in this analysis is publicly available from the [Inside Airbnb]
 - Python 3.x
 - Pandas
 - NumPy
-- Matplotlib (optional)
+- Matplotlib 
 - Jupyter Notebook (for analysis)
 
 ---
